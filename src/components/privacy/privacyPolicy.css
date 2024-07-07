@@ -1,0 +1,15 @@
+.privacy-policy-container {
+    padding: 20px;
+    background-color: #f9fafb;
+    color: #333;
+    text-align: left;
+}
+
+.privacy-policy-container h1 {
+    color: #1d4ed8;
+    margin-bottom: 20px;
+}
+
+.privacy-policy-container p {
+    line-height: 1.6;
+}

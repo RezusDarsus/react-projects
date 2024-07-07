@@ -1,0 +1,27 @@
+.features-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #E1FFEB;
+    padding: 20px;
+    text-align: center;
+}
+
+.feature-item {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.feature-item img {
+    width: 40px;
+    height: auto;
+}
+
+.feature-item h3 {
+    color: #333;
+    margin: 5px 0;
+}
+
+.feature-item p {
+    color: #666;
+    font-size: 14px;
+}
